@@ -1,0 +1,1 @@
+# docker-amplify-custom-image
